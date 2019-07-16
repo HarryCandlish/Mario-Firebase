@@ -6,7 +6,7 @@ import Dashboard from "./components/dashboard/Dashboard";
 import ProjectDetails from "./components/projects/ProjectDetails";
 import Signin from "./components/auth/Signin";
 import Signup from "./components/auth/Signup";
-import CreateProject from " ./components/projects/CreateProject";
+import CreateProject from "./components/projects/CreateProject";
 
 function App() {
   return (
